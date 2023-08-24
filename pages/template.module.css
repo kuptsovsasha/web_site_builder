@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10%;
+}
+
+.templateContainer {
+  width: 40%;
+  height: 920px;
+  position: relative;
+}
+
+.chooseButton {
+  position: relative;
+  padding-top: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+}
